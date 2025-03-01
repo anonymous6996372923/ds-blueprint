@@ -16,7 +16,7 @@ This repository contains reproducible material to help create, develop, and mode
 
 -- A scaffolded in-class exercise (and the solutions) on tidying data can be found in the *ae-example* folder above
 
--- An example prepare video to a lesson on tidying data can be found $${\color{blue}[here: redacted author created video](--https://www.youtube.com/watch?v=Ux85eR3h9hw).}$$ This is a 7-minute video that goes through what tidy data are, in depth. 
+-- An example prepare video to a lesson on tidying data can be found $${\color{blue}[here: \space redacted \space author \space created \space video](--https://www.youtube.com/watch?v=Ux85eR3h9hw).}$$ This is a 7-minute video that goes through what tidy data are, in depth. 
 
 -- Example code to invite students into your GitHub organization, and distribute individual repositories to students can be found in the *github-classroom* folder above
 
@@ -24,6 +24,6 @@ This repository contains reproducible material to help create, develop, and mode
 
 ## More Information 
 
-If you want more information on how to distribute individual or team assessments to your students, or want information to help you configure GitHub and RStudio, please click $${\color{blue}[here: redacted author created resource](--https://rundel.github.io/ghclass/articles/ghclass.html).}$$ This resource helps individuals with course management using the ghclass package in R. There are many code examples and a FAQ section that makes this a great resource for those first starting to use such a package. 
+If you want more information on how to distribute individual or team assessments to your students, or want information to help you configure GitHub and RStudio, please click $${\color{blue}[here: \space redacted \space author \space created \space resource](--https://rundel.github.io/ghclass/articles/ghclass.html).}$$ This resource helps individuals with course management using the ghclass package in R. There are many code examples and a FAQ section that makes this a great resource for those first starting to use such a package. 
 
 

@@ -20,7 +20,7 @@ This repository contains reproducible material to help create, develop, and mode
 
 -- Example code to invite students into your GitHub organization, and distribute individual repositories to students can be found in the *github-classroom* folder above
 
--- The Data Science in a Box curriculum can be found [here](https://datasciencebox.org/hello)
+-- The [curricula name redacted] can be found $${\color{blue}[here](--https://datasciencebox.org/hello)}$$. This widely used modernized data science curricula was developed by author. The course content is organized in five units: Hello world, Exploring data, Data science ethics, Making rigorous conclusions, and Looking further. For each unit numerous slide decks, homework and lab assignments, and application exercises are provided. Also provided are interactive tutorials, exams, and project assignment.
 
 ## More Information 
 
